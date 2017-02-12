@@ -1,0 +1,25 @@
+{
+    "dependencies": {
+        "github.com/coopernurse/gorp": {
+            "branch": "develop"
+        },
+        "github.com/go-martini/martini": {
+            "branch": "master"
+        },
+        "github.com/martini-contrib/binding": {
+            "branch": "master"
+        },
+        "github.com/martini-contrib/render": {
+            "branch": "master"
+        },
+        "github.com/martini-contrib/sessionauth": {
+            "branch": "master"
+        },
+        "github.com/martini-contrib/sessions": {
+            "branch": "master"
+        },
+        "github.com/mattn/go-sqlite3": {
+            "branch": "master"
+        }
+    }
+}
